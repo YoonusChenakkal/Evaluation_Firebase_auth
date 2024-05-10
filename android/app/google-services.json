@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493987884235",
+    "project_id": "authevaluation",
+    "storage_bucket": "authevaluation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493987884235:android:9c2044cca8e0ed03d0bf4e",
+        "android_client_info": {
+          "package_name": "com.example.evaluationfirebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlFg75TXlz56lzPY06ml6nkS95ChHzhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
